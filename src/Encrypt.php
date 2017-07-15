@@ -2,13 +2,6 @@
 
 namespace app;
 
-use think\Controller;
-use think\mongo\Connection;
-use think\Request;
-use think\Response;
-use think\Session;
-use think\Db;
-use smsapi\SmsClass;
 
 class encrypt {
     //  加密神兽开始
